@@ -132,10 +132,6 @@ cyber-intern-phase-3/
 # APT Simulation Report - [Date]
 
 ## 1. Fileless Malware
-- **Commands Executed**:  
-  ```powershell
-  [PASTE ENCODED COMMAND]
-  ```
 - **Log Evidence**:  
   ![Sysmon Event ID 1](screenshots/fileless_sysmon.png)
 
@@ -144,11 +140,7 @@ cyber-intern-phase-3/
   ```bash
   hydra -L users.txt -P passwords.txt rdp://192.168.1.50
   ```
-- **Detection**:  
-  ```json
-  [PASTE ELK QUERY RESULTS]
-  ```
-
+  
 [Repeat for all scenarios...]
 
 ## Lessons Learned
