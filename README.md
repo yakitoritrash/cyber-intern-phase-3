@@ -141,13 +141,6 @@ cyber-intern-phase-3/
   hydra -L users.txt -P passwords.txt rdp://192.168.1.50
   ```
   
-[Repeat for all scenarios...]
-
-## Lessons Learned
-- Most effective detection method: [Your observation]
-- Biggest blind spot: [Gap identified]
-```
-
 ---
 
 ## Acknowledgements
